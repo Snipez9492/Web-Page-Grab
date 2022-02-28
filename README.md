@@ -1,1 +1,2 @@
 # Web-Page-Grab
+# This is a smiple Web page grabber script. All you have to do is type in the proper URL in your termial/command line and it will return the HTML content. I did mine using the NBA home website.
